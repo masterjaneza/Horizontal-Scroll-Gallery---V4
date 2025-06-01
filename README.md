@@ -75,7 +75,7 @@ Things you might want to add next:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/masterjaneza/the-world-of-movies.git
+   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V4
    cd the-world-of-movies
    npm install
    npm run dev
