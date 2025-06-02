@@ -69,20 +69,19 @@ Things you might want to add next:
 - Captions or image overlays
 - Animation triggers with `IntersectionObserver`
 
---- 
+---
 
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V4
-   cd the-world-of-movies
-   npm install
-   npm run dev
-   ```
+   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V4.git
 
---- 
+**Open the Project:**
 
+- Open `index.html` in your browser  
+  **or**
+- Use **Live Server** in VS Code.
 
 ---
 
